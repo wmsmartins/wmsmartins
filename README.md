@@ -1,7 +1,7 @@
 ### Olá, Me chamo Wagner M. silva👋
 sou formado Sistemas De Informação na Faculdade Estácio em Recife - PE
 - 🔭 Atualmente estou trabalhando na Empresa FSBR - Fabrica de Software do Brasil. fico Lotado no PROCAPE - Pronto-Socorro Cardiológico Universitário de Pernambuco - Prof. Luiz Tavares....
-- 🌱 Atualmente estou aprendendo Jova na DIO logo OPEN.SOURCE ...
+- 🌱 Atualmente estou aprendendo Jova na DIO OPEN.SOURCE ...
 - 👯 Estou procurando colaborar e fazer parte desta Fámilia ...
 - Como chegar até mim. siga-me nas minhas redes sociais Instagran: [wagnermartins_s](https://www.instagram.com/wagnermartins_s?utm_source=qr&igsh=MW40MmVqeHhxZzZnMA==)
 - youtub: [@wagnermartins2360](https://www.youtube.com/channel/UC1VaRvPMUK1EGzHUmhHtqQg)
@@ -10,13 +10,9 @@ sou formado Sistemas De Informação na Faculdade Estácio em Recife - PE
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: **PHP, JavScript e aprendento Java na DIO OPEN.SOURCE.**
 </p>
 
 <p align="left">
