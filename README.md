@@ -10,10 +10,8 @@ sou formado Sistemas De Informação na Faculdade Estácio em Recife - PE
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-
 <p align="left">
   🦄 Linguagens: **PHP, JavScript e aprendento Java na DIO OPEN.SOURCE.**
 </p>
 
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+
