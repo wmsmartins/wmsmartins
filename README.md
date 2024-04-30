@@ -1,10 +1,5 @@
 ### Olá, Me chamo Wagner M. silva👋
 sou formado Sistemas De Informação na Faculdade Estácio em Recife - PE
-<!--
-**wmsmartins/wmsmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estou trabalhando na Empresa FSBR - Fabrica de Software do Brasil fico Lotado no PROCAPE - Hospital do Coração de Pernambuco....
 - 🌱 Atualmente estou aprendendo Jova na DIO logo OPEN.SOURCE ...
 - 👯 Estou procurando colaborar e fazer parte desta Fámili. ...
