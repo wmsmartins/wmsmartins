@@ -5,7 +5,7 @@
 Desenvolvedor e analista de sistemas em **Recife – PE**, formado em
 **Sistemas de Informação** pela Faculdade Estácio.
 
-Atuo há anos em **ambiente hospitalar**,
+Atuo há **6 anos** em **ambiente hospitalar**,
 desenvolvendo sistemas internos, painéis gerenciais e integrações que ajudam
 equipes a tomar decisões com dados confiáveis.
 
