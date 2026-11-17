@@ -1,6 +1,6 @@
 # Olá, eu sou o Wagner Martins 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300" align="right">
+<img src="imagem01.png" alt="Foto de Wagner Martins" width="220" align="right">
 
 Desenvolvedor e analista de sistemas em **Recife – PE**, formado em
 **Sistemas de Informação** pela Faculdade Estácio.
