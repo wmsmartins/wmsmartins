@@ -1,7 +1,5 @@
 # Olá, eu sou o Wagner Martins 👋
 
-<img src="imagem01.png" alt="Foto de Wagner Martins" width="220" align="right">
-
 Desenvolvedor e analista de sistemas em **Recife – PE**, formado em
 **Sistemas de Informação** pela Faculdade Estácio.
 
